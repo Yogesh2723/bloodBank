@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">yfb</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_individual_details">IndividualDetails</string>
+    <string name="openDrawer">Open</string>
+    <string name="closeDrawer">Close</string>
+    <string name="title_activity_personal_profile">PersonalProfile</string>
+    <string name="title_activity_search_donar">Search Donar</string>
+    <string name="spinner_title">Select Category</string>
+    <string name="title_activity_expandable_example">ExpandableExampleActivity</string>
+    <string name="path_expand_less">M12 8l-6 6 1.41 1.41L12 10.83l4.59 4.58L18 14z</string>
+</resources>
